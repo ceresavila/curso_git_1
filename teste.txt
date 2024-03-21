@@ -4,3 +4,4 @@ Testando o Git Hub 1New
 3
 4
 5
+Arquivo Atualizado no Merge de forma correta.
